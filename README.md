@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+1. Choosing entry point pikeplace market or Pioneer Square
+2. pike place market
+    - post alley vs market
+        - If post alley  gum wall vs pink door
+            - if gum wall finish at waterfront 
+            - if pink door finsh with a nice dinner
+        - if Market Beechers cheese vs pike place chowder
+        -  either way finish with dinner
+3. Pioneer Square
+    - underground tour vs occidental square
+        - if underground tour => angry ghost => sudden death
+        - occidental square => BGBR Bar => food coma mugged by homeless person
